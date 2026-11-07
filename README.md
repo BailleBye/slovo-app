@@ -2,6 +2,12 @@
 
 Application pour apprendre le russe depuis le français : des phrases utiles au quotidien, une progression par petits paliers, de l'audio pour chaque mot et chaque phrase, des lectures et des dialogues.
 
+## Le projet
+
+Slovo est un prototype : il sert à tester une autre façon d'apprendre une langue que celle de Duolingo. Si la méthode fonctionne, Slovo ne sera plus un prototype mais une vraie app, pour le russe et pour d'autres langues.
+
+Pourquoi le russe ? Parce que je n'en connais rien et que son alphabet est différent du nôtre. Je pars donc de zéro, comme un nouveau-né : le meilleur terrain pour vérifier une méthode inspirée de la façon dont un bébé apprend à parler.
+
 **Ouvrir l'app : https://baillebye.github.io/slovo-app/**
 
 ## L'installer sur son téléphone
